@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/lou/IdeaProjects/firstMavenProject/src">
+        <classes>
+            <class name="CraigslistLoginTest"></class>
+            <class name="CraigslistSearchTest"></class>
+            <class name="CraigslistLocationTest"></class>
+            <class name="PostCreationTest"></class>
+            <class name="CraigslistCharityTest"></class>
+            <class name="CheckForHelpandAvoidScamsTest"></class>
+            <class name="CraiglistCalendarTesting"></class>
+            <class name="CraigListPostDelete"></class>
+
+        </classes>
+    </test>
+</suite>
